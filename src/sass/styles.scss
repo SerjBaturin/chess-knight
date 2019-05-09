@@ -1,0 +1,42 @@
+* {
+  color: teal;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 96vh;
+  background-color: bisque;
+}
+
+form {
+  display: flex;
+}
+
+h1 { 
+  letter-spacing: - .01em;
+}
+
+#horse,
+#out,
+#btn {
+  font-weight: 600;
+}
+#horse {
+  width: 9em;
+  padding: .5em;
+}
+
+#btn {
+  padding: .43em;
+  border: none;
+  font-size: 1em;
+  background-color: teal;
+  color: white;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
