@@ -1,12 +1,12 @@
-# Тестовое задание № 2
-## Определение ходов шахматного коня
+# Chess Knight
+## Determining the moves of a chess knight
 
-* Язык: Javascript
-* Сборка: Webpack
-* Транспайлер: Babel
-* Препроцессор: Sass
-* Код-стайл: Airbnb (подключен через eslinter)
-* Сроки: 08.05.2019 - 09.05.2019
+* Javascript
+* Webpack
+* Babel
+* Sass
+* Airbnb (eslinter)
+* 08.05.2019 - 09.05.2019
 
-### Чтобы запустить приложение, перейдите по ссылке:
-https://serjbaturin.github.io/test2/
+### Please follow the link to launch the application:
+https://serjbaturin.github.io/chess-knight
